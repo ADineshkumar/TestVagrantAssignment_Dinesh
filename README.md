@@ -52,3 +52,7 @@ Refresh the project
 
 Reports will store in "TestVagrantAssignment/test-output/ExtentReport <DD-MMM-YY hh-mm-ss>/test-output/SparkReport"
 
+
+## 🔗 Sample Report
+[![Sample Report](https://img.shields.io/badge/sample-report-report
+)](https://github.com/ADineshkumar/TestVagrantAssignment_Dinesh/blob/main/TestVagrantAssignment/test-output/ExtentReport%2002-Jul-23%2023-02-10/test-output/SparkReport/Spark.html)
